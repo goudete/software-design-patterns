@@ -1,0 +1,3 @@
+/*
+    This project is to learn about software design patterns
+*/
